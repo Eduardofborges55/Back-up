@@ -1,0 +1,4 @@
+verde = Concluido
+cinza = incerto
+azul = estudo
+vermelho = incompleto
